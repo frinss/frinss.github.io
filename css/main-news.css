@@ -5,15 +5,14 @@ h1, h2, h3, h4 { font-family: "Trebuchet MS", Arial; }
 
 html, body { height: 100%; }
 
-html { background: #002349; }
-
 body {
   font-family: Arial;
   font-size: 14px;
   color: white;
+  background: #002349;
 }
 
-#frinsfrinss {
+#frinsofrinss {
   margin: 0 auto;
   position: relative;
   width: 100%;
